@@ -1,10 +1,9 @@
 # Movie Recommendation System
 
-![Movie Recommendation System](https://example.com//Users/rutwikkharmale/Downloads.jpg)
-
 ## Introduction
 
 This Movie Recommendation System is a machine learning project designed to provide personalized movie suggestions to users. By analyzing user preferences and movie characteristics, the system offers tailored recommendations to enhance the movie-watching experience.
+![WhatsApp Image 2024-10-12 at 08 40 11](https://github.com/user-attachments/assets/3b116134-545f-4932-a5b8-0353c1ed360b)
 
 ## Features
 
